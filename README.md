@@ -1,5 +1,6 @@
 # tecnomultimedial
 Esta basado un poco con los personajes de la pelicula de Hoodwinked!
+
 La historia es sobre roja, la caperuza.
 Roja tiene que llevarle a su abuelita el libro de recetas y unas galletas que le ha hecho, pero antes decide cual de los tres caminos tine que elegir. Dentro de estos tiene diferentes situaciones a las cual se debera elegir correctamente para poder llegar a la casa de su abuelita ¿Podrá conseguirlo?
 
